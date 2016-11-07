@@ -13,3 +13,7 @@ Youtube demo: https://youtu.be/lDS9rI0o6mM
 =======
 # audioMonitorQt
 qt audio monitor based on https://github.com/swharden/Python-GUI-examples/tree/master/2016-07-37_qt_audio_monitor
+
+# how to install 
+
+Go to http://www.pyqtgraph.org/ and look for instructions around "Everybody (including OSX)": you need to run "python setup.py install" from within the extracted directory.
