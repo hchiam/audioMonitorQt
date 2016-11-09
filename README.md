@@ -8,6 +8,11 @@ the "main" code: [go.py](https://github.com/hchiam/audioMonitorQt/blob/master/go
 
 Go to http://www.pyqtgraph.org/ and look for instructions around "Everybody (including OSX)": you need to run "python setup.py install" from within the extracted directory.
 
+# how to run all this the code:
+
+In Terminal or CommandLine, enter:
+python go.py
+
 # qt audio monitor
 
 PROJECT PAGE: http://www.swharden.com/wp/2016-07-31-real-time-audio-monitor-with-pyqt/
